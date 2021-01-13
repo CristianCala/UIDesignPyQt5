@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# ----------------------------------------------------------------------------
+# Nombre:       main.py
+# Autores:      Cristian Cala Sierra
+# License:      MIT License
+# ----------------------------------------------------------------------------
 import sys
 from vista import *
 from PyQt5 import QtGui, QtCore
